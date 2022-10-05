@@ -7,6 +7,12 @@ body{
     background-color: #224870;
 }
 
+h3{
+    text-align: center;
+    margin: 25px 0 10px;
+    text-decoration:overline;
+    letter-spacing: 2px;
+}
 .container{
     display: flex;
     justify-content: center;
@@ -65,3 +71,4 @@ button:focus{
 #valor-anterior{
     font-size: 2em;
 }
+
